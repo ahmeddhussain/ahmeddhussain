@@ -1,116 +1,142 @@
-# 👋 Hi, I'm Ahmed
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0070F3,100:38BDF8&height=190&section=header&text=Ahmed%20Khater&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Engineer%20%C2%B7%20AWS%20Certified%20Solutions%20Architect&descSize=16&descAlignY=58&animation=fadeIn" alt="Ahmed Khater · Cloud & DevOps Engineer" width="100%" />
+</p>
 
-### ☁️ Cloud & DevOps Engineer | Linux System Administration | Infrastructure as Code | CI/CD
+<p align="center">
+  <a href="https://ahmeddhussain.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=3291FF&center=true&vCenter=true&width=620&lines=I+build+platforms+that+deploy+themselves.;GitOps+on+EKS+with+ArgoCD+%2B+Argo+Rollouts;Terraform+%C2%B7+Ansible+%C2%B7+Kubernetes+%C2%B7+AWS;Hardening+RHEL+to+CIS+Level+1;Breaking+clusters+on+purpose+to+measure+RTO" alt="Typing intro" />
+  </a>
+</p>
 
-I design, automate, and operate cloud infrastructure on AWS. I build CI/CD pipelines, provision environments with Terraform, run workloads on Kubernetes, and administer Linux systems the way production teams expect: repeatable, secure, and observable.
-
----
-
-# 💫 About Me:
-
-- 🔭 I'm currently working on **Nexora**, an enterprise banking system on AWS (microservices, EKS, GitOps, progressive delivery), and **ahmed-infra**, an enterprise-grade Linux sysadmin lab on EC2
-- 👯 I'm looking to collaborate on open-source DevOps projects: CI/CD pipelines, Terraform modules, and Kubernetes tooling
-- 🤝 I'm looking for help with advanced Kubernetes networking and production-grade observability
-- 🌱 I'm currently learning enterprise Linux administration, deeper Kubernetes (GitOps and progressive delivery), and Infrastructure as Code best practices
-- 💬 Ask me about AWS, Terraform, Jenkins CI/CD pipelines, Docker, EKS, and Linux administration
-- ⚡ Fun fact: I like building labs that mimic real enterprise environments, then breaking them on purpose to learn how to fix them
-
----
-
-# 🚀 Featured Projects:
-
-### 🏦 Nexora: Enterprise Banking System on AWS
-A cloud-native banking platform built on microservices and deployed on **Amazon EKS**, with a **GitOps** delivery workflow and **progressive delivery** for safer releases.
-**Focus:** microservices architecture, Kubernetes, GitOps, release strategies
-**Stack:** AWS, EKS, Docker, Kubernetes, Terraform
-
-### 🔧 CI/CD Pipeline Engineering
-Jenkins pipelines running on **EKS**, written in **Groovy** with reusable **Shared Libraries** and **Docker agents** for consistent, scalable builds.
-**Focus:** pipeline-as-code, reusable pipeline components, containerized build agents
-**Stack:** Jenkins, Groovy, Docker, EKS
-
-### 🏗️ 3-Tier AWS Web Application with Terraform
-A 3-tier web application on AWS provisioned with **modular Terraform**, with the infrastructure split into reusable modules.
-**Focus:** Infrastructure as Code, modular design, AWS networking and compute
-**Stack:** Terraform, AWS
-
-### 🔄 NTI Final Project: End-to-End DevOps Pipeline on AWS
-The capstone of the NTI Cloud DevOps Accelerator: a full pipeline from code to deployment on AWS.
-**Focus:** automation across the whole delivery lifecycle
-**Stack:** AWS, CI/CD, Docker, Kubernetes
-
-### 🐧 ahmed-infra: Enterprise Linux Sysadmin Lab
-A step-by-step enterprise-style Linux administration lab on AWS EC2, modeled on a classroom environment, covering user and access management, services, storage, networking, and security hardening.
-**Focus:** Linux administration, system hardening, documentation of every design decision
-**Stack:** Linux, AWS EC2, Bash
+<p align="center">
+  <a href="https://ahmeddhussain.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-ahmeddhussain.github.io-0070F3?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ahmed-khater2611"><img src="https://img.shields.io/badge/LinkedIn-ahmed--khater2611-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /></a>
+  <a href="mailto:ahmedkhater2611@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /></a>
+  <a href="https://instagram.com/ahmeddhussain"><img src="https://img.shields.io/badge/Instagram-ahmeddhussain-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" /></a>
+  <img src="https://img.shields.io/badge/Status-Open_to_work-3291FF?style=for-the-badge&labelColor=0a0a0a" alt="Open to work" />
+</p>
 
 ---
 
-# 🎓 Education & Certifications:
+### 👋 About me
 
-- 🎓 B.Sc. in Electronics and Communication Engineering, Suez Canal University
-- 🚀 **NTI Cloud DevOps Accelerator**, graduated 2025
-- 💼 Internship at **Evolve Technologies**
-- ☁️ **AWS Certified Cloud Practitioner**
-- ☁️ **AWS Certified Solutions Architect**
-- 🏅 AWS Academy Cloud Foundations
-- 🏅 AWS Academy Cloud Security Foundations
+I'm a **Cloud & DevOps Engineer** in Cairo. I write infrastructure as code, deliver it through GitOps, lock it down by default, and **break it on purpose to prove it recovers**.
 
----
-
-# 🛠️ What I Do:
-
-| Area | What it covers |
-|------|----------------|
-| ☁️ **Cloud Infrastructure** | Designing and deploying scalable, secure architectures on AWS |
-| 🧱 **Infrastructure as Code** | Modular, reusable Terraform and configuration management with Ansible |
-| 🔁 **CI/CD** | Jenkins, GitLab CI, and GitHub Actions pipelines with Docker-based agents |
-| ☸️ **Containers & Orchestration** | Docker and Kubernetes (EKS), GitOps, progressive delivery |
-| 🐧 **Linux Administration** | User management, services, storage, networking, and hardening |
-| 📈 **Monitoring** | Metrics and dashboards with Grafana and Elasticsearch |
+```yaml
+ahmed:
+  role:        Cloud & DevOps Engineer
+  location:    Cairo, Egypt 🇪🇬
+  certified:   [AWS Solutions Architect, AWS Cloud Practitioner]
+  trained_at:  NTI Cloud DevOps Accelerator (Hire Ready Initiative)
+  interned_at: iVolve Technologies
+  education:   B.Sc. Electronics & Communications, Suez Canal University (GPA 3.4)
+  building:    [Nexora, Enterprise Linux Lab]
+  motto:       "If it isn't in Git, it doesn't exist. If it's never been tested, it doesn't work."
+```
 
 ---
 
-# 💻 Tech Stack:
+### 🚀 Featured projects
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧱 Infrastructure as Code & Configuration Management
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+#### 🏦 [Nexora: GitOps core-banking platform](https://github.com/Nexora-Banking-App/Nexora-Banking-App)
+6 microservices (FastAPI + NGINX) for transfers, accounts, auth and fraud scoring on **EKS** with RDS MySQL and Kafka (Strimzi). The work is split across 6 repos so each CI/CD job only gets the permissions it needs.
 
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+- 🔐 GitHub Actions authenticates to AWS through **OIDC** · **Trivy** scanning · **Cosign** image signing
+- 🐤 **Argo Rollouts** canary (10 → 50 → 100%) gated on Prometheus metrics
+- 🛡️ Istio mTLS · IRSA + External Secrets · default-deny NetworkPolicies
+- 📈 Prometheus · Grafana · Loki · Tempo · 12 alerts, each with a runbook
+- ⏱️ DR drill: deleted the EKS cluster and rebuilt it in **23m 50s**
 
-### 🔁 CI/CD & Version Control
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+`EKS` `Terraform` `ArgoCD` `Istio` `Kafka` `GitHub Actions`
 
-### 🐧 Operating Systems, Scripting & Languages
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+</td>
+<td width="50%" valign="top">
 
-### 🌐 Web Servers & Messaging
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+#### 🐧 [Enterprise Linux Lab: a company's IT on AWS](https://github.com/ahmeddhussain/Linux-System-Administration)
+A complete **RHEL 10** environment for a fictional company. Terraform provisions it, Ansible configures it, and it's destroyed after each session and rebuilt from Git.
 
-### 📈 Monitoring & Logging
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+- 👤 **FreeIPA** identity: HBAC and sudo rules, SSH keys · WireGuard VPN
+- 🌐 Workstations have no direct internet; a **Squid** proxy allows HTTPS only
+- 📁 NFSv4 homes and team shares through automount, with quotas and ACLs
+- ✅ **OpenSCAP CIS Level 1** on every host · auditd · AIDE · TLS log shipping
+- 🧪 **158 automated checks** · patching in rings · restore and incident drills
 
-### 🗄️ Databases
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+`RHEL` `FreeIPA` `Ansible` `Terraform` `OpenSCAP` `Squid`
 
-### ⚙️ Backend Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+</td>
+</tr>
+</table>
+
+#### More projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🔁 [**GitOps Pipeline on EKS**](https://github.com/ahmeddhussain/ivolve-GitOps) | A CI/CD platform with no stored credentials for a 3-service app; ArgoCD syncs the cluster on every merge | Actions · ArgoCD · Terraform · ESO |
+| 🔧 [**Jenkins CI/CD with security gates**](https://github.com/ahmeddhussain/ivolve-CloudDevOpsProject) | Multi-branch pipelines with SonarQube and Trivy gates, built with Terraform and Ansible, observed with Prometheus, Grafana and Loki | Jenkins · Helm · Ansible · EKS |
+| 🛡️ [**Kubernetes Phishing-Sim Lab**](https://github.com/ahmeddhussain/phishing-app-k8s) | Hardened Kubernetes: RBAC, Cilium FQDN egress rules, default-deny policies, HPA | Kubernetes · Cilium |
+| 🏗️ [**3-Tier Web App on AWS**](https://github.com/ahmeddhussain/terraform-aws-project) | A three-tier web application provisioned with modular Terraform | Terraform · AWS |
+| 🎓 [**NTI Final Project**](https://github.com/ahmeddhussain/nti-final-project) | Capstone of the NTI Cloud DevOps Accelerator: an end-to-end pipeline on AWS | AWS · CI/CD · K8s |
+| 📚 [**Jenkins Shared Library**](https://github.com/ahmeddhussain/jenkins-shared-lib) | Reusable Groovy pipeline steps for Jenkins | Jenkins · Groovy |
 
 ---
 
-## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ahmeddhussain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmeddhussain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-khater2611) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedkhater2611@gmail.com)
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,kubernetes,docker,jenkins,githubactions,prometheus,grafana&theme=dark" alt="Cloud and DevOps tools" /><br/>
+  <img src="https://skillicons.dev/icons?i=linux,redhat,bash,python,git,nginx,kafka,mysql,fastapi&theme=dark" alt="Systems and code" />
+</p>
+
+| Area | Tools |
+|---|---|
+| ☁️ **Cloud** | AWS: EKS, EC2, VPC, RDS, ECR, ALB, IAM / OIDC / IRSA, Secrets Manager, SSM, S3, CloudWatch |
+| 🧱 **IaC & config** | Terraform · CloudFormation · Ansible · Ansible Vault |
+| ☸️ **Containers** | Kubernetes · OpenShift · Docker · Podman · Helm · Kustomize |
+| 🔁 **Delivery** | GitHub Actions · Jenkins (shared libraries) · ArgoCD · Argo Rollouts |
+| 🛡️ **Security** | Trivy · Cosign · SonarQube · Istio mTLS · Cilium · OpenSCAP · FreeIPA |
+| 📈 **Observability** | Prometheus · Grafana · Loki · Tempo · OpenTelemetry · CloudWatch |
+| 🐧 **Systems** | RHEL / Linux administration · Networking (CCNA) · WireGuard · Squid · NFS · Bash · Python |
 
 ---
 
-# 📊 GitHub Stats:
+### 🎓 Certifications & training
 
-![](https://github-readme-stats.shion.dev/api?username=ahmeddhussain&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ahmeddhussain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmeddhussain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=232F3E" alt="AWS Solutions Architect" />
+  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=232F3E" alt="AWS Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=232F3E" alt="AWS Academy Cloud Foundations" />
+  <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Security_Foundations-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=232F3E" alt="AWS Academy Cloud Security Foundations" />
+</p>
+
+- 🚀 **NTI Cloud DevOps Accelerator**, Hire Ready Initiative (2026)
+- 💼 **DevOps Intern, iVolve Technologies** (2026)
+- 🎓 **B.Sc. Electronics & Communications Engineering**, Suez Canal University (2020 – 2025)
+- 📘 Courses: CCNA · MCSA · Virtualization
 
 ---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=ahmeddhussain&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=3291ff&icon_color=38bdf8&text_color=ededed&ring_color=0070f3" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmeddhussain&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=3291ff&text_color=ededed" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ahmeddhussain&hide_border=true&background=0a0a0a&ring=0070F3&fire=38BDF8&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=3291FF&sideLabels=A1A1A1&dates=6F6F6F&stroke=262626" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <b>💬 Ask me about</b> AWS · Terraform · GitOps · Kubernetes · Jenkins · Linux hardening<br/>
+  <sub>Looking for a Cloud / DevOps / Platform Engineer? → <a href="https://ahmeddhussain.github.io"><b>ahmeddhussain.github.io</b></a></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0070F3&height=110&section=footer" alt="" width="100%" />
+</p>
